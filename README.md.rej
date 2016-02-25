@@ -1,0 +1,10 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -39,7 +39,7 @@
+ raw form of data:
+ 
+ * The strange binary file your measurement machine spits out
+-* The unformated Excel file with 10 workbooks the company you contracted with sent you
++* The unformated Excel file with 10 worksheets the company you contracted with sent you
+ * The complicated JSON data you got from scraping the Twitter API
+ * The hand-entered numbers you collected looking through a microscope
+ 
